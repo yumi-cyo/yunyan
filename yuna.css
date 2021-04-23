@@ -89,6 +89,7 @@ header {
 
 .logo {
     width: 50px;
+    display: flex;
     margin: 5px;
 }
 
